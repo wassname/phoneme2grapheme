@@ -1,0 +1,9 @@
+keras==1.2.2
+tensorflow-gpu==1.0.0
+
+# data processing
+leven==1.0.4
+https://github.com/timmahrt/pysle/archive/e47ab5630679451b719787f5579968756bd7a644.zip
+https://github.com/datalogai/recurrentshop/archive/6f709f1aabd5156b184a06852b8edb9ceee5bb21.zip
+https://github.com/farizrahman4u/seq2seq/archive/1b1ae455fcebd55b16eb6e1c77a58aabfe85892a.zip
+keras-tqdm==2.0.1
