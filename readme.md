@@ -10,6 +10,7 @@ Then start a jupyter notebook and open main.ipynb
 
 ## results
 
+
 It reaches a character error rate of <20%, and here are the results . The machine has made some reasonable mistakes but becomes confused by the end of the word.
 
 *Note if you view the readme in html you will see lighter letters show where the model was uncertain.*
